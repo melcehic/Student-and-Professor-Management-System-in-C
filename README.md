@@ -1,5 +1,4 @@
-# Student-and-Professor-Management-System-in-C
-📚 Student-Professor Management System
+# 📚 Student-Professor Management System
 EM Lyon Business School — C Programming Project
 
 🧩 Project Overview
